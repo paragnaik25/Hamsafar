@@ -32,7 +32,7 @@ Humsafar is a web application built using React.js for the frontend and Spring B
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/tejasjadhav30/humsafar-react-springboot.git
+   https://github.com/paragnaik25/Hamsafar/edit/main/humsafar-react-springboot-main
    ```
 
 2. **Navigate to the frontend directory**:
